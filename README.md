@@ -98,6 +98,10 @@ Se todas apresentaram os valores das suas versões, a instalação foi um sucess
 
 - Ops: se quiser rodar apenas o servidor, ou ele não abriu: npm start
 
+## Notion
+- Criei um notion com um guia para react native:
+- https://www.notion.so/React-Native-1e39739114f3805e871ac52333af2af3
+
 
 
 
