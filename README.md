@@ -81,6 +81,24 @@ Se todas apresentaram os valores das suas versões, a instalação foi um sucess
 - Siga os mesmos passos que foi para JAVA_HOME, mas com o nome ANDROID_HOME e o seu devido endereço.
 
 
+## Criando um projeto
+
+- Dentro da sua pasta raiz, rode:
+ - npx @react-native-community/cli@latest init nomedoprojeto
+ - troquei nomedoprojeto pelo nome do seu projeto
+
+- E depois:
+ - npm run android
+
+- Para rodar novamente depois:
+ - abra o seu android studio
+ - rode seu emulador
+ - na pasta do seu projeto:
+   - npm run android
+
+- Ops: se quiser rodar apenas o servidor, ou ele não abriu: npm start
+
+
 
 
 
